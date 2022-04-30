@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.header{
+}
+
+.search{
+    display: flex;
+}
+
+.image{
+    width: 45px;
+    margin-left:20px
+}
+
+.search button{
+    padding: 0;
+border: none;
+background: none;
+}
+
+
